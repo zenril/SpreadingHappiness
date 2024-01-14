@@ -33,6 +33,7 @@ public class MainCharacterController : MonoBehaviour
         }
         Debug.Log("current speed: " + hSpeed);
         Debug.Log("current radius: " + hitboxCollider.radius);
+        
     }
 
 
